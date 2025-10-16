@@ -17,6 +17,6 @@ public class Camara extends Producto {
 
     @Override
     public double getPrecio() {
-        return 550.0;
+        return 660.0;
     }
 }
