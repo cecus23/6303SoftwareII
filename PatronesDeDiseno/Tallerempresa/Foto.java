@@ -11,3 +11,5 @@ public class Foto {
         System.out.println("Mostrando foto: " + fichero);
     }
 }
+
+

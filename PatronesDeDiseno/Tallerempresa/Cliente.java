@@ -22,3 +22,5 @@ public class Cliente {
         return nombre + " (Cédula: " + cedula + ")";
     }
 }
+
+
