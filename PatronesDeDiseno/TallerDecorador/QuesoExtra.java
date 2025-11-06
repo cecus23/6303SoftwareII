@@ -1,6 +1,5 @@
 package PatronesDeDiseno.TallerDecorador;
 
-// Decorador concreto
 class QuesoExtra extends IngredienteExtra {
     Pizza pizza;
 
@@ -16,4 +15,3 @@ class QuesoExtra extends IngredienteExtra {
         return pizza.costo() + 1.5;
     }
 }
-

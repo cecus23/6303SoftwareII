@@ -1,6 +1,5 @@
 package PatronesDeDiseno.TallerDecorador;
 
-// Decorador concreto
 class BordeRelleno extends IngredienteExtra {
     Pizza pizza;
 

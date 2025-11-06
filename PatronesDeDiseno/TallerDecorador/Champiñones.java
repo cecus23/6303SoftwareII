@@ -1,6 +1,6 @@
 package PatronesDeDiseno.TallerDecorador;
 
-// Decorador concreto
+
 class Champiñones extends IngredienteExtra {
     Pizza pizza;
 
@@ -16,4 +16,3 @@ class Champiñones extends IngredienteExtra {
         return pizza.costo() + 1.0;
     }
 }
-
